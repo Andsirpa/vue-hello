@@ -9,3 +9,13 @@ Bonus:
 Aggiungere alla pagina un'immagine, presa anch'essa da un data.
 
 # SVOLGIMENTO
+
+- collego Vue.js
+
+- inserisco le proprietà message e image nel return di data
+
+- stampo l'h1
+    - uso la mustache sintax per stampare il messaggio all'interno dell'h1
+
+-stampo un'immagine
+    - uso il v-bind per prendere l'url dell'immagine
